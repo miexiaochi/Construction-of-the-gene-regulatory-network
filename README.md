@@ -1,6 +1,6 @@
 # Gene Regulatory Network Inference
 
-This project performs Gene Regulatory Network (GRN) inference using gradient boosting regression, based on gene expression data. The code supports parallel computation to process multiple target genes simultaneously.
+This project performs Gene Regulatory Network (GRN) inference using gradient boosting regression, based on gene expression data. 
 
 ## Requirements
 
