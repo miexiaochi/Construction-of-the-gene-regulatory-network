@@ -9,7 +9,6 @@ To run the script, ensure the following libraries are installed:
 - pandas
 - numpy
 - scikit-learn
-- arboreto
 - joblib
 
 You can install them using `pip`:
