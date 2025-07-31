@@ -14,7 +14,7 @@ To run the script, ensure the following libraries are installed:
 You can install them using `pip`:
 
 ```bash
-pip install pandas numpy scikit-learn arboreto joblib
+pip install pandas numpy scikit-learn joblib
 ```
 
 
